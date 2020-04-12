@@ -1,0 +1,5 @@
+baseURL = "https://cristianingrao.com"
+languageCode = "en-us"
+title = "Cristian Ingrao - Sito ufficiale"
+[markup.goldmark.renderer]
+    unsafe= true
